@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...  He/Him
 - ⚡ Fun fact: ...  I am half finish 
 -->
-https://github-readme-stats.vercel.app/api?username=jamel123a&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+<img src="https://github-readme-stats.vercel.app/api?username=jamel123a&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+" >
