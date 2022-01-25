@@ -4,9 +4,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... 
+- 🔭 I’m currently working on ... My PFE
 - 🌱 I’m currently learning ... REACT JS
-- 👯 I’m looking to collaborate on ...   PFE intership
+- 👯 I’m looking to collaborate on ...  develop myself
 - 🤔 I’m looking for help with ...  Node JS
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [linkedin profile] (https://www.linkedin.com/in/issaoui-jamel/)
