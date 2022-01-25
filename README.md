@@ -50,4 +50,11 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
-a
+
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=jamel123a">
+</a>
+<a href="https://github.com/jamel123a?tab=followers"><img src="https://img.shields.io/github/followers/jamel123a?label=Followers&style=social" alt="GitHub Badge"></a>
+
