@@ -7,8 +7,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... My PFE
-- 🌱 I’m currently learning ... REACT JS
+- 🔭 I’m currently working on ... My Future
+- 🌱 I’m currently learning ... Next js
 - 👯 I’m looking to collaborate on ...  develop myself
 - 🤔 I’m looking for help with ...  Node JS
 - 💬 Ask me about ... Anything
