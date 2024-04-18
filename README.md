@@ -8,9 +8,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... My Future
-- 🌱 I’m currently learning ... Next js
+- 🌱 I’m currently learning ... Spring Boot
 - 👯 I’m looking to collaborate on ...  develop myself
-- 🤔 I’m looking for help with ...  Nest JS
+- 🤔 I’m looking for help with ...  Spring Boot
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [linkedin profile] (https://www.linkedin.com/in/issaoui-jamel/)
 - 😄 Pronouns: ...  He/Him
