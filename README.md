@@ -2,8 +2,10 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jamel</h1>
-<h3 align="center">I'm a passionate Full Stack Developer (MERN) from Tunisie.</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jamel+Issaoui!;" />
+</h1>
+<h3 align="center">I'm a passionate Web Developer from Tunisie.</h3>
 
 Here are some ideas to get you started:
 
